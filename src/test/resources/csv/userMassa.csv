@@ -1,0 +1,4 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1010,ana01,Ana,Silva,ana@email.com,123456,912345678,1
+1011,joao02,João,Pereira,joao@email.com,abc123,913456789,1
+1012,lucas03,Lucas,Souza,lucas@email.com,xyz321,914567890,1
